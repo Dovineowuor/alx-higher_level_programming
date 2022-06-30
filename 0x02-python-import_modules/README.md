@@ -15,3 +15,5 @@ This repositpry showcases all the mandatory and the advanced task files.
 [Task 4 File:](4-hidden_discovery.py) 4-hidden_discovery.py
 
 [Task 5 File:](5-variable_load.py) 5-variable_load.py
+
+[Task 6 File:](100-my_calculator.py)
