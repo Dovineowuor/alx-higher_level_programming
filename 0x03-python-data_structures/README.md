@@ -28,6 +28,7 @@
 [Task 12](12-switch.py)
 
 [Task 13](13-is_palindrome.c)
+[Task 13](100-print_python_list_info.py)
 
 [Header File](lists.h)
 
