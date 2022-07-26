@@ -67,7 +67,7 @@ def add_queen(board, row, col):
 
 def new_queen_safe(board, row, col):
     """For the board given, checks that for a new queen placed in the rightmost
-    column, there are no other "queen"s, or 1 values, in the matrix to the
+    column, there are no other "queen"s, or 1 values, in the martix to the
     left, and diagonally up-left and down-left.
 
     Args:
@@ -102,7 +102,7 @@ def new_queen_safe(board, row, col):
 
 def coordinate_format(candidates):
     """Converts a board (matrix of 1 and 0) into a series of row/column
-    indices of each queen/1.
+    indicies of each queen/1.
 
     Args:
     candidates (list) of (list) of (list) of (int): list of all successful
