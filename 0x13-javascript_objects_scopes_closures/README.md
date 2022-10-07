@@ -1,4 +1,4 @@
-# 0x13. Javascript - Objects, Scopes and Closures
+## 0x13. Javascript - Objects, Scopes and Closures
 
 ## Description
 What you should learn from this project:
@@ -72,4 +72,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Wolf Hopkins** - [Zevrov](https://github.com/Zevrov)
+* **Dovine Owuor** - [Dovineowuor ](https://github.com/Dovineowuor)
