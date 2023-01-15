@@ -1,4 +1,5 @@
 #!/usr/bin/node
 
-const process = require('process');
-console.log(process.argv[2] + ' is ' + process.argv[3]);
+const argNum = process.argv;
+
+console.log(`${argNum[2]} is ${argNum[3]}`);
